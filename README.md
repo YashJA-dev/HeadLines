@@ -6,7 +6,7 @@ the world such as (Sports, Politics, Entertainment etc)
  - Worked With (Google News) REST API and sqLite databse using sqflite
 package 
 
-- can also work offline mobile internet connection is not avilable
+- can also work offline when mobile internet connection is not avilable
 
 ## UserInterface (UI)
 
