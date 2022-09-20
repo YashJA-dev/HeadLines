@@ -1,16 +1,16 @@
-# task_flutter
+# HeadLines
 
-A new Flutter project.
+ - Flutter Application which provides Current HeadLines of Different Sectors of
+the world such as (Sports, Politics, Entertainment etc)
 
-## Getting Started
+ - Worked With (Google News) REST API and sqLite databse using sqflite
+package 
 
-This project is a starting point for a Flutter application.
+- can also work offline mobile internet connection is not avilable
 
-A few resources to get you started if this is your first Flutter project:
+## UserInterface (UI)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Loading Headlines(Offline/Online)                                                                                                                |  Loading HeadLines from GoogleNews Api           | HeadLine Details
+:----------------------------------------------------------------------------------------------------------------------------:|:-------------------------:|:-----------------------------------:
+<img src="https://user-images.githubusercontent.com/73610050/191195331-7b36a920-dcac-485f-ba95-cc895517ff4b.jpeg" width="200"> | <img src="https://user-images.githubusercontent.com/73610050/191195600-19a1a1c3-3e64-4399-8b11-28ef37795f79.jpeg" width="200"> | <img src="https://user-images.githubusercontent.com/73610050/191195876-bc81371a-515c-4833-8936-c4a8a6086e1f.jpeg" width="200">
